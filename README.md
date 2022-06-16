@@ -8,4 +8,5 @@
 - https://sls0263.github.io/Goods-Shop_hardCoding-Design/MainPage/UI_MainPage.html
 
 #### 미리보기 입니다
-- 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107562213/174092958-ea778581-a2c5-4aed-a12d-4f2e0d66ffe7.gif)
+
